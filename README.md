@@ -5,7 +5,7 @@
 
 | # | Problem | Criticality | Solution |
 | ------------- |:-------------:| :-------------:|  :-------------:|
-| 1 | [how-many-numbers-are-smaller-than-the-current-number](http://tiny.cc/oft4lz) | - ![Easy](https://placehold.it/15/43A047/000000?text=+) | [Github](http://tiny.cc/sgt4lz) |
+| 1 | [how-many-numbers-are-smaller-than-the-current-number](http://tiny.cc/oft4lz) |  ```diff + Easy ``` | [Github](http://tiny.cc/sgt4lz) |
 | 2 | [find-numbers-with-even-number-of-digits](http://tiny.cc/8it4lz) | <span style="color:#43A047"> Easy </span> | [Github](http://tiny.cc/gkt4lz) OR [Medium](http://tiny.cc/8nt4lz) |
 | 3 | [create-target-array-in-the-given-order](http://tiny.cc/lky4lz) | <span style="color:#43A047">Easy </span> | [Github](http://tiny.cc/2ky4lz) |
 | 4 | [find-n-unique-integers-sum-up-to-zero](http://tiny.cc/vly4lz) | <span style="color:#43A047">Easy </span> | [Github](http://tiny.cc/9ly4lz) OR [Medium](http://tiny.cc/kny4lz) |
