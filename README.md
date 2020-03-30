@@ -22,3 +22,14 @@
 | 15 | [two-sum-II-input-array-is-sorted](http://tiny.cc/3yz4lz) | Easy | [Github](http://tiny.cc/wzz4lz) OR [Medium](http://tiny.cc/x0z4lz) |
 | 16 | [pascals-triangle](http://tiny.cc/50z4lz) | Easy | [Github](http://tiny.cc/t1z4lz)  |
 | 17 | [missing-number](http://tiny.cc/h3z4lz) | Easy | [Github](http://tiny.cc/r4z4lz) |
+| 18 | [remove-element](http://tiny.cc/aw14lz) | Easy | [Github](http://tiny.cc/yx14lz) OR [Medium](http://tiny.cc/gy14lz) |
+| 19 | [maximum-product-of-three-numbers](http://tiny.cc/1y14lz) | Easy | [Github](http://tiny.cc/yz14lz) |
+| 20 | [two-sum](http://tiny.cc/6014lz) | Easy | [Github](http://tiny.cc/y114lz) OR [Medium](http://tiny.cc/n214lz) |
+| 21 | [remove-duplicates-from-sorted-array](http://tiny.cc/h314lz) | Easy | [Github](http://tiny.cc/1414lz) OR [Medium](http://tiny.cc/r514lz) |
+| 22 | [search-insert-position](http://tiny.cc/9714lz) | Easy | [Github](http://tiny.cc/t714lz) OR [Medium](http://tiny.cc/i814lz) |
+| 23 | [largest-number-at-least-twice-of-others](http://tiny.cc/i914lz) | Easy | [Github](http://tiny.cc/ja24lz) OR [Medium](http://tiny.cc/hb24lz) |
+| 24 | [rotate-array](http://tiny.cc/gd24lz) | Easy | [Github](http://tiny.cc/4e24lz) |
+| 25 | [third-maximum-number](http://tiny.cc/6f24lz) | Easy | [Github](http://tiny.cc/5h24lz) OR [Medium](http://tiny.cc/si24lz) |
+| 26 | [find-all-duplicates-in-an-array](http://tiny.cc/8j24lz) | Medium | [Github](http://tiny.cc/sl24lz) |
+| 27 | [find-the-duplicate-number](http://tiny.cc/rm24lz) | Medium | [Github](http://tiny.cc/kn24lz) |
+| 28 | [find-first-and-last-position-of-element-in-sorted-array](http://tiny.cc/so24lz) | Medium | [Github](http://tiny.cc/yp24lz) |
