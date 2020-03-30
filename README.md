@@ -1,5 +1,5 @@
 # Leetcode Javascript
-## Solution for Leetcode Problems
+### Solution for Leetcode Problems
 
 ## Array
 
@@ -33,3 +33,21 @@
 | 26 | [find all duplicates in an array](http://tiny.cc/8j24lz) | Medium | [Github](http://tiny.cc/sl24lz) |
 | 27 | [find the duplicate number](http://tiny.cc/rm24lz) | Medium | [Github](http://tiny.cc/kn24lz) |
 | 28 | [find first and last position of element in sorted array](http://tiny.cc/so24lz) | Medium | [Github](http://tiny.cc/yp24lz) |
+
+
+## String
+
+| # | Problem | Criticality | Solution |
+| ------------- |:-------------:| :-------------:| :-------------:|
+| 1 | [Split a String in Balanced Strings](http://tiny.cc/ek44lz) | Easy | [Github](http://tiny.cc/il44lz) OR [Medium](http://tiny.cc/3l44lz) |
+| 2 | [To Lower Case](http://tiny.cc/nm44lz) | Easy | [Github](http://tiny.cc/rn44lz) |
+| 3 | [Robot Return to Origin](http://tiny.cc/so44lz) | Easy | [Github](http://tiny.cc/9p44lz) OR [Medium](http://tiny.cc/cr44lz) |
+| 4 | [Reverse Words in a String III](http://tiny.cc/qt44lz) | Easy | [Github](http://tiny.cc/cv44lz) OR [Medium](http://tiny.cc/2v44lz) |
+| 5 | [Reverse String](http://tiny.cc/xw44lz) | Easy | [Github](http://tiny.cc/xx44lz) |
+| 6 | [Maximum Number of Balloons](http://tiny.cc/oy44lz) | Easy | [Github](http://tiny.cc/j044lz)  |
+| 7 | [Most Common Word](http://tiny.cc/4044lz) | Easy | [Github](http://tiny.cc/y144lz)  |
+| 8 | [Reverse Vowels of a String](http://tiny.cc/j344lz) | Easy | [Github](http://tiny.cc/h444lz) OR [Medium](http://tiny.cc/z444lz) |
+| 9 | [Valid Parentheses](http://tiny.cc/v544lz) | Easy | [Github](http://tiny.cc/3644lz) OR [Medium](http://tiny.cc/7744lz) |
+| 10 | [Valid Palindrome](http://tiny.cc/d944lz) | Easy | [Github](http://tiny.cc/1944lz) |
+| 11 | [Reverse Words in a String](http://tiny.cc/ta54lz) | Medium | [Github](http://tiny.cc/wb54lz) OR [Medium](http://tiny.cc/dc54lz) |
+
