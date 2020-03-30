@@ -1,7 +1,9 @@
 # Leetcode Javascript
 ### Solution for Leetcode Problems
 
-## Array
+1. [Array][1]
+
+[1]: ## Array
 
 | # | Problem | Criticality | Solution |
 | ------------- |:-------------:| :-------------:| :-------------:|
@@ -51,3 +53,14 @@
 | 10 | [Valid Palindrome](http://tiny.cc/d944lz) | Easy | [Github](http://tiny.cc/1944lz) |
 | 11 | [Reverse Words in a String](http://tiny.cc/ta54lz) | Medium | [Github](http://tiny.cc/wb54lz) OR [Medium](http://tiny.cc/dc54lz) |
 
+## Hash Table
+
+| # | Problem | Criticality | Solution |
+| ------------- |:-------------:| :-------------:| :-------------:|
+| 1 | [Jewels and Stones](http://tiny.cc/gof5lz) | Easy | [Github](http://tiny.cc/vpf5lz) OR [Medium](http://tiny.cc/pqf5lz) |
+| 2 | [N-Repeated Element in Size 2N Array](http://tiny.cc/lrf5lz) | Easy | [Github](http://tiny.cc/3sf5lz) OR [Medium](http://tiny.cc/vtf5lz) |
+| 3 | [Unique Number of Occurrences](http://tiny.cc/huf5lz) | Easy | [Github](http://tiny.cc/2vf5lz)  |
+| 4 | [Occurrences After Bigram](http://tiny.cc/2yf5lz) | Easy | [Github](http://tiny.cc/pxf5lz) OR [Medium](http://tiny.cc/yxf5lz) |
+| 5 | [Single Number](http://tiny.cc/kzf5lz) | Easy | [Github](http://tiny.cc/d0f5lz) OR [Medium](http://tiny.cc/g0f5lz) |
+| 6 | [Intersection of Two Arrays](http://tiny.cc/v0f5lz) | Easy | [Github](http://tiny.cc/u1f5lz) OR [Medium](http://tiny.cc/g2f5lz) |
+| 7 | [Intersection of Two Arrays II](http://tiny.cc/53f5lz) | Easy | [Github](http://tiny.cc/d7f5lz) OR [Medium](http://tiny.cc/w7f5lz) |
