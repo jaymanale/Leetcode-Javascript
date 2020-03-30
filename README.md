@@ -1,9 +1,7 @@
 # Leetcode Javascript
 ### Solution for Leetcode Problems
 
-1. [Array][1]
-
-[1]: ## Array
+## Array
 
 | # | Problem | Criticality | Solution |
 | ------------- |:-------------:| :-------------:| :-------------:|
